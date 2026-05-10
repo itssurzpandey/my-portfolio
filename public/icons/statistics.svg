@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Statistics icon">
+  <rect width="64" height="64" rx="12" fill="#1f2937"/>
+  <rect x="12" y="35" width="8" height="17" rx="2" fill="#60a5fa"/>
+  <rect x="24" y="27" width="8" height="25" rx="2" fill="#34d399"/>
+  <rect x="36" y="19" width="8" height="33" rx="2" fill="#f59e0b"/>
+  <rect x="48" y="11" width="8" height="41" rx="2" fill="#f87171"/>
+  <path d="M10 10h44" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+</svg>
